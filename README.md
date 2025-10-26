@@ -2,7 +2,7 @@ Diffie-Hellman Key Exchange (Java)
 
 This project is a console-based Java implementation of the Diffie-Hellman shared secret key exchange algorithm. It demonstrates how two parties can independently generate a matching shared secret key over a public channel without exposing their private values.
 
-✅ Features
+Features
 
 Prompts users for:
 
@@ -26,7 +26,7 @@ This program models the core mathematics behind secure cryptographic key exchang
 
 Even if an attacker sees the base, modulo, and public values, they still cannot derive the shared secret without knowing a private key.
 
-🛠 Technologies Used
+Technologies Used
 
 Java
 
